@@ -1,0 +1,3 @@
+name: Il mio primo Github Action
+on:
+  push:
